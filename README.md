@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá Brunin 59D❤
+![Brunin fishing GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunin59D&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunin59D&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Brunin59D/Brunin59D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias que eu uso no meu dia
 
-Here are some ideas to get you started:
+<div style="display: inline_block"></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"&gt;
+
+</div>
